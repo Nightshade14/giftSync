@@ -1,4 +1,4 @@
-# WelcomeHome Donation Management System
+# giftSync Donation Management System
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-GiftSync is a web application that facilitates tracking and managing donations made to a charity organization. The system enables supervisors and staff members to manage items and donors, record donations, and ensure proper allocation and storage of donated items.
+giftSync is a web application that facilitates tracking and managing donations made to a charity organization. The system enables supervisors and staff members to manage items and donors, record donations, and ensure proper allocation and storage of donated items.
 
 ---
 
@@ -37,7 +37,7 @@ MYSQL_HOST = ''
 MYSQL_USER = ''
 MYSQL_PASSWORD = ''
 MYSQL_DB = 'WelcomeHomeDB'
-UPLOAD_FOLDER = 'uploads/'
+UPLOAD_FOLDER = 'src/uploads/'
 ```
 4. After verifying steps 1 - 3, run the following command (outside the directory):
 ```
