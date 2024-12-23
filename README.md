@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-WelcomeHome Donation Management System is a web application that facilitates tracking and managing donations made to a charity organization. The system enables supervisors and staff members to manage items and donors, record donations, and ensure proper allocation and storage of donated items.
+GiftSync is a web application that facilitates tracking and managing donations made to a charity organization. The system enables supervisors and staff members to manage items and donors, record donations, and ensure proper allocation and storage of donated items.
 
 ---
 
