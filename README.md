@@ -576,22 +576,3 @@ if not any(role in current_user.roles for role in allowed_roles):
    - Implementing security best practices, such as hashing passwords, validating user inputs, and managing file uploads securely, is crucial to protect the application and its users from potential threats.
 
 By addressing these difficulties and learning from the challenges faced, the project team can improve their development practices and create more robust and user-friendly applications in the future.
-
-
-## Contributions:
-1. Gordon
-- Produced the code for Q1-4, Q11 and the Custom Question.
-- Also ensured that features were working by testing througly and provided some frontend.
-- Contributed to project report.
-- Contributed to Project Part 1, 2, 3
-
-2. Satyam
-- Added features 8 and 10 along with frontend and role management.
-- Added and fixed code security by enforcing Prepared Statements to prevent SQL injection and identified and fixed XSS bug.
-- Added helper scripts in SQL to improve the provided schema as an experiment, added indices to minimize retrieval latency, Database and Schema creation and removal and in Python to add dummy data with user's salted and hashed passwords (did not find it possible with just SQL i.e. hashing and salting with SQL) for easy testing and data manipulation and python script to load and verify the photos; uploaded to the database. 
-- Added Project manager and dependency management to ensure easy project replication with easy project dependencies installation.
-- Contributed to project report.
-- Contributed to Project Part 1, 2, 3
-
-3. Ohm
-- Added features 6 and 7.
