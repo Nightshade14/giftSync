@@ -31,13 +31,15 @@ export FLASK_APP = WelcomeHomeDB
 export FLASK_DEBUG = 1 # if developing
 ```
 2. On Windows, replace the `export` with `set`
-3. Ensure there is an `instance` folder outside of this directory. This is where the `config.py` will reside. The expected variables in `config.py` are:
+3. The expected variables in `config.py` are:
 ```
 MYSQL_HOST = ''
 MYSQL_USER = ''
 MYSQL_PASSWORD = ''
 MYSQL_DB = 'WelcomeHomeDB'
 UPLOAD_FOLDER = 'src/uploads/'
+ALLOWED_EXTENSIONS = []
+
 ```
 4. After verifying steps 1 - 3, run the following command (outside the directory):
 ```
