@@ -43,7 +43,7 @@ ALLOWED_EXTENSIONS = []
 ```
 4. After verifying steps 1 - 3, run the following command (outside the directory):
 ```
-flask run
+uv run flask run __init__.py
 ```
 
 ## Features
