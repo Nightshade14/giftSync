@@ -10,7 +10,7 @@
 
 ## Project Overview
 
-giftSync is a web application that facilitates tracking and managing donations made to a charity organization. The system enables supervisors and staff members to manage items and donors, record donations, and ensure proper allocation and storage of donated items.
+giftSync is a web application that facilitates tracking and managing donations made to a charity organization. The system enables supervisors and staff members to manage items and donors, record donations, and ensure proper allocation and storage of donated items. It enables management of doation and delivery information and the people involved in those events. It also provides an aggregated view of all the personnel activity and also generates Annual Report.
 
 ---
 
